@@ -11,3 +11,18 @@
 ul {
   list-style: none;
 }
+
+#user-list {
+  color: blueviolet;
+  font-size: 25px;
+
+}
+
+h2 {
+  color: hotpink;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+  background-color: black;
+}
